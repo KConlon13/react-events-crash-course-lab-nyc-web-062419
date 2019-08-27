@@ -15,7 +15,7 @@ export function init() {
   const yellow = document.createElement("img")
 
   def.src = "chrome-boi.png"
-  green.src = "chrome-boi-green.png"
+  green.src = "chrome-boi-green.png" 
   red.src = "chrome-boi-red.png"
   yellow.src = "chrome-boi-yellow.png"
   
